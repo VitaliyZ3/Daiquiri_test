@@ -1,6 +1,6 @@
 # Task 3
 Here is pseudocode for models.py.
-he database scheme is written according to the rules of normalization and i18n
+he database scheme is written according to the rules of i18n localization pattern
 
 ```python
 class Language(models.Model):
@@ -62,3 +62,4 @@ class TranslationLog(models.Model):
 
 ```
 
+Database Internationalization
